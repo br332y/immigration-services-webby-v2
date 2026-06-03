@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Ida Immigration Practitioner",
+  "description": "Professional and trustworthy South African immigration consulting services, in business since 1995. Personalized guidance on visas and permanent residency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
